@@ -3,8 +3,8 @@
     Obiekt to egzemplarz klasy i jest tworzony na podstawie klasy konkretnej klasy
     Zmienna to obszar pamiêci zarezerwowanej na dane
     Ka¿da zmienna musi mieæ okreœlony typ, np. int, albo String.
-    W klasie mog¹ siê znajdowaæ zmienne, konstruktory i metody
-    Obiekty s¹ wywo³ywane przez operator new i s³u¿¹ do tworzenia nowych obiektów.
+    W klasie mog¹ siê znajdowaæ pola, konstruktory i metody
+    Konstruktory s¹ wywo³ywane przez operator new i s³u¿¹ do tworzenia nowych obiektów.
     Jeœli w klasie zdefiniowano chocia¿ jeden konstruktor to kompilator nie wygeneruje dla nas konstruktora domyœlnego.
     Zak³adaj¹c, ¿e istnieje klasa Car, to przy zapisie:
 
